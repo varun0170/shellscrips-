@@ -1,6 +1,7 @@
 #!/bin/bash
 #this is my first shell script writen by my own when learnt
 #author varun nalluri
+#craeted on 13/07/2024 for getting handson
 
 set -e
 set -x
