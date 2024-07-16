@@ -7,7 +7,7 @@ set -e
 set -x
 set -o pipefail
 
-#remove the files
+#remove the files 
 rm varun/file1 varun/file2 varun/file3
 rm nar/file4 nar/file5 nar/file6
 
@@ -15,8 +15,10 @@ rm nar/file4 nar/file5 nar/file6
 rmdir varun nar
 
 #creating a directory
-mkdir varun nar
+mkdir varun nar demo 
 
 #creating 3 files
 touch varun/file1 varun/file2 varun/file3
 touch nar/file4 nar/file5 nar/file6
+touch demo/ex-file
+

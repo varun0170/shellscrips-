@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1721095223,,"wq"
+|2,0,1721102831,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,82 @@
 # Registers:
 
 # File marks:
-'0  22  34  ~/fist-shell-script.sh
-|4,48,22,34,1721095223,"~/fist-shell-script.sh"
-'1  22  34  ~/varun/fist-shell-script.sh
-|4,49,22,34,1721095115,"~/varun/fist-shell-script.sh"
-'2  43  34  ~/fist-shell-script.sh
-|4,50,43,34,1721094938,"~/fist-shell-script.sh"
+'0  24  0  ~/fist-shell-script.sh
+|4,48,24,0,1721102831,"~/fist-shell-script.sh"
+'1  4  13  ~/fist-shell-script.sh
+|4,49,4,13,1721099301,"~/fist-shell-script.sh"
+'2  4  13  ~/fist-shell-script.sh
+|4,50,4,13,1721099301,"~/fist-shell-script.sh"
 '3  22  34  ~/fist-shell-script.sh
-|4,51,22,34,1721094938,"~/fist-shell-script.sh"
-'4  64  34  ~/fist-shell-script.sh
-|4,52,64,34,1721094722,"~/fist-shell-script.sh"
-'5  43  34  ~/fist-shell-script.sh
-|4,53,43,34,1721094722,"~/fist-shell-script.sh"
-'6  43  34  ~/fist-shell-script.sh
-|4,54,43,34,1721094722,"~/fist-shell-script.sh"
-'7  22  34  ~/fist-shell-script.sh
-|4,55,22,34,1721094722,"~/fist-shell-script.sh"
+|4,51,22,34,1721095223,"~/fist-shell-script.sh"
+'4  22  34  ~/fist-shell-script.sh
+|4,52,22,34,1721095223,"~/fist-shell-script.sh"
+'5  22  34  ~/fist-shell-script.sh
+|4,53,22,34,1721095223,"~/fist-shell-script.sh"
+'6  22  34  ~/fist-shell-script.sh
+|4,54,22,34,1721095223,"~/fist-shell-script.sh"
+'7  22  34  ~/varun/fist-shell-script.sh
+|4,55,22,34,1721095115,"~/varun/fist-shell-script.sh"
+'8  45  34  ~/fist-shell-script.sh
+|4,56,45,34,1721094938,"~/fist-shell-script.sh"
+'9  22  34  ~/fist-shell-script.sh
+|4,57,22,34,1721094938,"~/fist-shell-script.sh"
 
 # Jumplist (newest first):
+-'  24  0  ~/fist-shell-script.sh
+|4,39,24,0,1721102831,"~/fist-shell-script.sh"
+-'  4  13  ~/fist-shell-script.sh
+|4,39,4,13,1721102755,"~/fist-shell-script.sh"
+-'  4  13  ~/fist-shell-script.sh
+|4,39,4,13,1721099301,"~/fist-shell-script.sh"
+-'  22  34  ~/fist-shell-script.sh
+|4,39,22,34,1721099270,"~/fist-shell-script.sh"
+-'  22  34  ~/fist-shell-script.sh
+|4,39,22,34,1721099270,"~/fist-shell-script.sh"
 -'  22  34  ~/fist-shell-script.sh
 |4,39,22,34,1721095223,"~/fist-shell-script.sh"
+-'  1  0  ~/fist-shell-script.sh
+|4,39,1,0,1721095211,"~/fist-shell-script.sh"
+-'  1  0  ~/fist-shell-script.sh
+|4,39,1,0,1721095211,"~/fist-shell-script.sh"
 -'  1  0  ~/fist-shell-script.sh
 |4,39,1,0,1721095211,"~/fist-shell-script.sh"
 -'  22  34  ~/varun/fist-shell-script.sh
 |4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
 -'  22  34  ~/varun/fist-shell-script.sh
 |4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
+-'  22  34  ~/varun/fist-shell-script.sh
+|4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
+-'  22  34  ~/varun/fist-shell-script.sh
+|4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
+-'  22  34  ~/varun/fist-shell-script.sh
+|4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
+-'  22  34  ~/varun/fist-shell-script.sh
+|4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
+-'  22  34  ~/varun/fist-shell-script.sh
+|4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
+-'  22  34  ~/varun/fist-shell-script.sh
+|4,39,22,34,1721095115,"~/varun/fist-shell-script.sh"
 -'  1  0  ~/varun/fist-shell-script.sh
 |4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
 -'  1  0  ~/varun/fist-shell-script.sh
 |4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  1  0  ~/varun/fist-shell-script.sh
+|4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  1  0  ~/varun/fist-shell-script.sh
+|4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  1  0  ~/varun/fist-shell-script.sh
+|4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  1  0  ~/varun/fist-shell-script.sh
+|4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  1  0  ~/varun/fist-shell-script.sh
+|4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  1  0  ~/varun/fist-shell-script.sh
+|4,39,1,0,1721095093,"~/varun/fist-shell-script.sh"
+-'  45  34  ~/fist-shell-script.sh
+|4,39,45,34,1721094938,"~/fist-shell-script.sh"
+-'  43  34  ~/fist-shell-script.sh
+|4,39,43,34,1721094938,"~/fist-shell-script.sh"
 -'  43  34  ~/fist-shell-script.sh
 |4,39,43,34,1721094938,"~/fist-shell-script.sh"
 -'  22  34  ~/fist-shell-script.sh
@@ -65,6 +111,10 @@
 |4,39,1,0,1721094924,"~/fist-shell-script.sh"
 -'  1  0  ~/fist-shell-script.sh
 |4,39,1,0,1721094924,"~/fist-shell-script.sh"
+-'  66  34  ~/fist-shell-script.sh
+|4,39,66,34,1721094722,"~/fist-shell-script.sh"
+-'  64  34  ~/fist-shell-script.sh
+|4,39,64,34,1721094722,"~/fist-shell-script.sh"
 -'  64  34  ~/fist-shell-script.sh
 |4,39,64,34,1721094722,"~/fist-shell-script.sh"
 -'  43  34  ~/fist-shell-script.sh
@@ -83,13 +133,17 @@
 # History of marks within files (newest to oldest):
 
 > ~/fist-shell-script.sh
-	*	1721095221	0
-	"	22	34
-	^	22	35
-	.	22	34
-	+	64	34
-	+	43	34
+	*	1721102829	0
+	"	24	0
+	^	24	0
+	.	23	18
+	+	66	34
+	+	45	34
 	+	22	34
+	+	4	13
+	+	10	17
+	+	18	20
+	+	23	18
 
 > ~/varun/fist-shell-script.sh
 	*	1721095113	0
