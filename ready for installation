@@ -4,7 +4,7 @@
 
 set -e
 set -x
-set -o|pipefail
+set -o pipefail
 
 # Update the package list and upgrade all packages
 sudo apt-get update -y && sudo apt-get upgrade -y
