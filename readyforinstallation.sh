@@ -15,7 +15,7 @@ sudo apt-get install git -y
 # Install Ansible
 sudo apt install software-properties-common
 sudo add-apt-repository --yes --update ppa:ansible/ansible
-sudo apt install ansible
+sudo apt install ansible -y
 
 # Install Jenkins and start jenkins 
 wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
